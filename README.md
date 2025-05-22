@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaima HAmdan</h1>
+<h1 align="center">Hi 👋, I'm Shaima Hamdan</h1>
 <p align="center">Towards the dream</p>
 
 <p align="center">
@@ -6,9 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/shaima_3h"><img src="https://img.shields.io/twitter/follow/YOUR_USERNAME?style=social" /></a>
-  
+  <a href="https://x.com/shaima_3h">
+    <img src="https://img.shields.io/twitter/follow/shaima_3h?style=social" />
+  </a>
 </p>
+
+<!-- Font Awesome for replacement icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <p align="left">
   <!-- Frontend -->
@@ -21,7 +25,7 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <i class="fas fa-gears" style="font-size: 40px; color: #FF2D20;" title="Laravel (FA replacement)"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 
   <!-- Programming Languages -->
@@ -35,16 +39,14 @@
 
   <!-- Big Data -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" alt="Hadoop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Hive_logo.svg" width="40" alt="Hive" />
-  <img src="https://www.sas.com/content/dam/SAS/en_us/images/logos/sas-logo-default.png" width="40" alt="SAS" />
+  <i class="fas fa-database" style="font-size: 40px; color: #f0c000;" title="Hive (FA replacement)"></i>
+  <i class="fas fa-chart-line" style="font-size: 40px; color: #1f77b4;" title="SAS (FA replacement)"></i>
 
   <!-- DevOps / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" alt="Vagrant" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache HTTP Server" />
 </p>
-
-
 
 ### 📊 GitHub Stats
 
