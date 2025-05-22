@@ -12,8 +12,6 @@
 
 ---
 
-### ⚡ Languages and Tools:
-
 <p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
@@ -25,10 +23,10 @@
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/laravel/art/25f3984ba15521a1fa2a4e301e5b8ff2eec7c629/logo-lockup/laravel-mark-red.svg" width="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/laravel-mark-red.svg" width="40" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 
-  <!-- Other Tools -->
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
@@ -41,17 +39,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" alt="Hadoop" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HDFS_logo.svg" width="40" alt="HDFS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Hive_logo.svg" width="40" alt="Hive" />
-  <img src="https://raw.githubusercontent.com/Sumanth-Talluri/SAS_logo/main/sas.png" width="40" alt="SAS" />
+  <img src="https://www.sas.com/content/dam/SAS/en_us/images/logos/sas-logo-default.png" width="40" alt="SAS" />
 
-  <!-- DevOps / System Tools -->
+  <!-- DevOps / Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vagrant_Logo.svg" width="40" alt="Vagrant" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Apache_HTTP_server_logo_%282019-present%29.svg" width="40" alt="Apache" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Apache_HTTP_server_logo_%282019-present%29.svg" width="40" alt="Apache HTTP Server" />
 </p>
 
-
-
----
 
 ### 📊 GitHub Stats
 
