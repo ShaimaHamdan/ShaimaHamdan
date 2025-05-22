@@ -17,6 +17,8 @@
 <p align="left">
 ### ⚡ Languages and Tools:
 
+### ⚡ Languages and Tools:
+
 <p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
@@ -28,24 +30,25 @@
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/laravel/art/25f3984ba15521a1fa2a4e301e5b8ff2eec7c629/logo-lockup/laravel-mark-red.svg" width="40" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 
-  <!-- General -->
+  <!-- Other -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="Scikit-learn" />
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" width="40" alt="Scikit-learn" />
 
-  <!-- Big Data (use local or reliable uploads if needed) -->
-  <img src="https://raw.githubusercontent.com/rajshah4/hadoop-icons/master/hadoop.png" width="40" alt="Hadoop" />
+  <!-- Big Data -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" alt="Hadoop" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HDFS_logo.svg" width="40" alt="HDFS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Hive_logo.svg" width="40" alt="Hive" />
   <img src="https://raw.githubusercontent.com/Sumanth-Talluri/SAS_logo/main/sas.png" width="40" alt="SAS" />
 </p>
+
 
 
   <!-- Other -->
