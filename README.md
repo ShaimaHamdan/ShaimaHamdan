@@ -2,7 +2,7 @@
 <p align="center">Towards the dream</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sulealothman&label=Profile%20views&color=0e75b6&style=flat" alt="sulealothman" />
+  <img src="https://komarev.com/ghpvc/?username=shaimaHamdan&label=Profile%20views&color=0e75b6&style=flat" alt="shaimaHamdan" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<!-- Font Awesome for replacement icons -->
+<!-- Font Awesome for fallback icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <p align="left">
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" width="40" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" alt="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" alt="Anaconda" />
 
   <!-- Big Data -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" alt="Hadoop" />
@@ -47,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" alt="Vagrant" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache HTTP Server" />
 </p>
-
 
 ### 📊 GitHub Stats
 
