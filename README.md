@@ -12,16 +12,6 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-### ⚡ Languages and Tools:
-
-### ⚡ Languages and Tools:
-
-<p align="left">
-### ⚡ Languages and Tools:
-
 ### ⚡ Languages and Tools:
 
 <p align="left">
@@ -59,12 +49,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Apache_HTTP_server_logo_%282019-present%29.svg" width="40" alt="Apache" />
 </p>
 
-
-
-
-  <!-- Other -->
-  <img src="https://img.icons8.com/color/48/000000/sas.png" alt="SAS" width="40" />
-</p>
 
 
 ---
