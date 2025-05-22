@@ -1,18 +1,27 @@
 <h1 align="center">Hi 👋, I'm Shaima Hamdan</h1>
-<p align="center">Towards the dream</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaimaHamdan&label=Profile%20views&color=0e75b6&style=flat" alt="shaimaHamdan" />
-</p>
+### 📫 Contact with Me:
 
-<p align="center">
-  <a href="https://x.com/shaima_3h">
-    <img src="https://img.shields.io/twitter/follow/shaima_3h?style=social" />
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/shaimaHamdan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </a>
+
+  <!-- CodePen -->
+  <a href="https://codepen.io/Shaima3h" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="40" alt="CodePen" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/shaima_3h" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="Twitter" />
   </a>
 </p>
 
-<!-- Font Awesome for fallback icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+### 🛠️ Languages and Tools:
 
 <p align="left">
   <!-- Frontend -->
@@ -33,8 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" alt="tensorflow" />
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" width="40" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" alt="Jupyter Notebook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" alt="Anaconda" />
@@ -46,11 +58,14 @@
 
   <!-- DevOps / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" alt="Vagrant" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache HTTP Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=shaimaHamdan&show_icons=true&theme=radical" alt="shaimaHamdan" />
@@ -59,7 +74,7 @@
 
 ---
 
-### ⏳ Contribution Stats
+### ⏳ Contribution Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaimaHamdan&theme=radical" alt="shaimaHamdan" />
