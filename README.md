@@ -20,6 +20,11 @@
 ### ⚡ Languages and Tools:
 
 <p align="left">
+### ⚡ Languages and Tools:
+
+### ⚡ Languages and Tools:
+
+<p align="left">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
@@ -33,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/laravel/art/25f3984ba15521a1fa2a4e301e5b8ff2eec7c629/logo-lockup/laravel-mark-red.svg" width="40" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 
-  <!-- Other -->
+  <!-- Other Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
@@ -47,7 +52,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HDFS_logo.svg" width="40" alt="HDFS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Hive_logo.svg" width="40" alt="Hive" />
   <img src="https://raw.githubusercontent.com/Sumanth-Talluri/SAS_logo/main/sas.png" width="40" alt="SAS" />
+
+  <!-- DevOps / System Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vagrant_Logo.svg" width="40" alt="Vagrant" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Apache_HTTP_server_logo_%282019-present%29.svg" width="40" alt="Apache" />
 </p>
+
 
 
 
