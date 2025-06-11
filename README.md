@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaima Hamdan</h1>
+<h1 align="center">Hi 👋, I'm Shaima Hamdan, Web developer and business and data analysis. </h1>
 
 
 ### 📫 Contact with Me:
