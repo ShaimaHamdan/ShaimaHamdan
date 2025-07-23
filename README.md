@@ -90,7 +90,7 @@
 
 ---
 
-### ⏳ Contribution Stats:Soon
+### ⏳ Contribution Stats:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shaimaHamdan&theme=radical" alt="shaimaHamdan" />
