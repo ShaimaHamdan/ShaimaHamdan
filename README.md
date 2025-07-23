@@ -90,8 +90,8 @@
 
 ---
 
-### ⏳ Contribution Stats:
+### ⏳ Contribution Stats:Soon
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaimaHamdan&theme=radical" alt="shaimaHamdan" />
+  <img src="https://streak-stats.demolab.com/?user=shaimaHamdan&theme=radical" alt="shaimaHamdan" />
 </p>
